@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#069AD5</color>
+    <color name="themeColor">#1167CF</color>
+    <color name="themeColorDark">#0E2B97</color>
+    <color name="black">#000</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#c2e6ff</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#1199CF</color>
+    <color name="editTextBackground">#F1F8FD</color>
+    <color name="white">#FFF</color>
+
+</resources>
